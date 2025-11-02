@@ -95,7 +95,7 @@ export default function Home() {
     <main className="flex flex-col min-h-screen items-center justify-center p-24 w-screen h-screen">
       <div className="flex gap-x-4  my-24 items-center">
         <Image src={checkList} alt="checklist icon" />
-        <h1 className="text-5xl font-bold text-gray-700">ToDo List </h1>
+        <h1 className="text-5xl font-bold text-gray-700">MY ToDo List </h1>
       </div>
 
       <div className="mb-32 mx-auto flex-col flex gap-y-2 w-full justify-center">
